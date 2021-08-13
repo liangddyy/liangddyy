@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-![](https://github-readme-stats.vercel.app/api?username=liangddyy)
+[![liangddyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangddyy&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/liangddyy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liangddyy&layout=compact" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liangddyy)](https://github.com/anuraghazra/github-readme-stats)
 
-[![liangddyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=liangddyy&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
